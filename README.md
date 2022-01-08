@@ -1,1 +1,1 @@
-# variant-calling-snippy
+# variant-calling
