@@ -12,6 +12,5 @@ dependencies:
   - matplotlib
   - pandas
   - spades
-  - abricate
   - sra-tools
   - biopython
