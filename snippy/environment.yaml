@@ -5,7 +5,7 @@ channels:
   - defaults
 dependencies:
   - vt==2015.11.10
-  - snippy
+  - snippy==4.05
   - python
   - pip
   - numpy
