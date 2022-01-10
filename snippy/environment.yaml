@@ -13,4 +13,5 @@ dependencies:
   - pandas
   - spades
   - sra-tools
+  - fastqc
   - biopython
